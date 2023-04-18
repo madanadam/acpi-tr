@@ -1,3 +1,4 @@
+
 This is an acpi client for Linux, originally written by Grahame Bowland 
 and. Copyright (C) 2001 Grahame Bowland. Please see the manpage 
 for details; INSTALL for installation info.
@@ -16,3 +17,7 @@ interface you used. This will allow me to test the behaviour of the program.
 
 Michael Meskes
 meskes@debian.org
+
+Turkish adaptation by madanadam@gmail.com
+
+![ACPI tr](https://github.com/madanadam/acpi-tr/blob/main/acpi.PNG?raw=true)
